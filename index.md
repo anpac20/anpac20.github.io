@@ -25,7 +25,7 @@ A RESTful API simulating payment flows (authorization, refund, status query), bu
 ### Sales #1: Descriptive analysis
 A data analysis project using pandas, matplotlib, and seaborn to explore sales behavior across stores and product families. Designed to answer business questions such as revenue concentration, promotion effectiveness, and the impact of oil prices. Includes correlation analysis and visual insights to guide strategic decisions in retail.
 
-[View project details](https://anpac20.github.io/sales_descriptive_analaysis//)
+[View project details](https://anpac20.github.io/sales_predictive_analysis/)
 
 ---
 ### Sales #2: Forecasting
