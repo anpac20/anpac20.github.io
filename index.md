@@ -31,4 +31,4 @@ A data analysis project using pandas, matplotlib, and seaborn to explore sales b
 ### 4. Sales #2: Forecasting
 A machine learning model for retail sales forecasting using pandas and scikit-learn. Includes feature engineering with lag variables, oil prices, store metadata, and promotion-category interactions. Developed to explore time series modeling and improve predictive accuracy in real-world business scenarios.
 
-[View project details](https://anpac20.github.io/sales_predictive_analaysis/)
+[View project details](https://anpac20.github.io/sales_predictive_analysis/)
