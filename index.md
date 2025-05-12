@@ -2,7 +2,7 @@
 
 [LinkedIn profile](https://www.linkedin.com/in/pacheco-antonio/)
 
-### Data Cleaning and Retail Insights with SQL and Tableau  
+### 1. Data Cleaning and Retail Insights with SQL and Tableau  
 A data preparation and exploration project using SQL and Tableau to analyze transactional data from a retail dataset. Focused on transforming raw, inconsistent data into structured tables to support recurring business queries. Explored revenue concentration across product categories, customer behavior, and regional sales performance. 
 
 Key tasks included:
@@ -16,19 +16,19 @@ Key tasks included:
 [Access dashboard](https://public.tableau.com/app/profile/ant.nio.pacheco/viz/SalesReport_16868672658560/Report)
 
 ---
-### Mock Payments API
+### 2. Mock Payments API
 A RESTful API simulating payment flows (authorization, refund, status query), built with FastAPI, PostgreSQL, SQLAlchemy, and Docker. Developed as a portfolio project to practice API design and deployment.
 
 [View project details](https://anpac20.github.io/payments-api/)
 
 ---
-### Sales #1: Descriptive analysis
+### 3. Sales #1: Descriptive analysis
 A data analysis project using pandas, matplotlib, and seaborn to explore sales behavior across stores and product families. Designed to answer business questions such as revenue concentration, promotion effectiveness, and the impact of oil prices. Includes correlation analysis and visual insights to guide strategic decisions in retail.
 
 [View project details](https://anpac20.github.io/sales_descriptive_analysis/)
 
 ---
-### Sales #2: Forecasting
+### 4. Sales #2: Forecasting
 A machine learning model for retail sales forecasting using pandas and scikit-learn. Includes feature engineering with lag variables, oil prices, store metadata, and promotion-category interactions. Developed to explore time series modeling and improve predictive accuracy in real-world business scenarios.
 
 [View project details](https://anpac20.github.io/sales_predictive_analaysis/)
