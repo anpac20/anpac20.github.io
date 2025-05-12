@@ -11,6 +11,7 @@ Key tasks included:
 - Creating interactive dashboards to visualize KPIs and trends
 
 [View project details](https://medium.com/@antoniocnpacheco/sql-and-tableau-data-cleaning-and-vizualization-4b6eef867041)
+
 [Access dashboard](https://public.tableau.com/app/profile/ant.nio.pacheco/viz/SalesReport_16868672658560/Report)
 
 
