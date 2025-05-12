@@ -1,10 +1,16 @@
 [Github](https://github.com/anpac20)
 [LinkedIn](https://www.linkedin.com/in/pacheco-antonio/)
 
-### Revenue insights from e-commerce transactions
-A data exploration project using SQL to analyze transactional and behavioral data from a large Brazilian e-commerce platform. Focused on identifying revenue growth opportunities by examining purchase patterns, payment methods, order value distribution, delivery performance, and customer segmentation. Developed to practice complex SQL querying and translate structured data into actionable insights for business strategy.
+### Data Cleaning and Retail Insights with SQL and Tableau  
+A data preparation and exploration project using SQL and Tableau to analyze transactional data from a retail dataset. Focused on transforming raw, inconsistent data into structured tables to support recurring business queries. Explored revenue concentration across product categories, customer behavior, and regional sales performance. 
 
-[View project](https://anpac20.github.io/sales_descriptive_analaysis//)
+Key tasks included:
+- Cleaning and normalizing product and category data using SQL
+- Handling null values, inconsistent formats, and date conversions
+- Analyzing sales distribution by category and geography
+- Creating interactive dashboards to visualize KPIs and trends
+
+[View project](https://medium.com/@antoniocnpacheco/sql-and-tableau-data-cleaning-and-vizualization-4b6eef867041)
 
 
 ### Mock Payments API
