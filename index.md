@@ -1,4 +1,6 @@
-[Github repositories](https://github.com/anpac20) | [LinkedIn profile](https://www.linkedin.com/in/pacheco-antonio/)
+[Github repositories](https://github.com/anpac20)
+
+[LinkedIn profile](https://www.linkedin.com/in/pacheco-antonio/)
 
 ### Data Cleaning and Retail Insights with SQL and Tableau  
 A data preparation and exploration project using SQL and Tableau to analyze transactional data from a retail dataset. Focused on transforming raw, inconsistent data into structured tables to support recurring business queries. Explored revenue concentration across product categories, customer behavior, and regional sales performance. 
