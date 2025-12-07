@@ -1,5 +1,7 @@
 ---
 layout: default
+title: Antonio Pacheco - Projects portfolio
+
 ---
 
 [Github repositories](https://github.com/anpac20)
